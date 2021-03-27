@@ -1,7 +1,7 @@
 # tuntsApi
 **<h1>Consumindo uma planilha do Google Sheets</h1>**
 
-Feito em node JS.
+<h3>Feito em node JS.</h3>
 
 1º Você vai clonar o repositório em sua máquina.
 2º Após ter clonado você vai dar um NPM INSTALL.

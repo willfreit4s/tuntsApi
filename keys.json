@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tuntusapi",
+  "private_key_id": "32124f437dfdb1bef6a61a7782a20b24aa22d351",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDTK7BWCgS+ds9i\nuEfpaYGuSGeKrvtT8sGBwtsuusK9wmV1rmGMXD4pKVqWCEEy/4iMpQsiQ8ALsLGj\nOXzqRSxxeO5TdHTmQA+8kqFMgRjMR/GTtrf2Wfh+0RnqMJeT8jhBhhGtFhcKZMxO\nn29K5eapJVxq8AMcixcb3ehReOpZqoitXvkTcmk6SD9UMywlA4ICbmJ0whXRFKrU\n8iDwHF1KrptdR+MVqH5fj1trV5z8vN5E7pUU5MSN8pMWNLHDUXL/jbUUhkMaejn/\nD0djcCvp8xk5WCFGfaNnspxlcd029ebWkZ2AiUtXN9S3QnqOTBRFw8bFZGC8Y31I\n1JxoFkSTAgMBAAECggEAMYa1GDDIVQ1TbVFQGFe04PW9RwLsEg/Ev5S+SDLoGo49\nsoCAA2Xc9FVtF/P+qqHQ2j+ZIWOnZnZ96wzAFce8eS6GIs+U3S2YIz92khVTBhI3\nf8/iTGZkiAWtoMXdvwaXmBKEEca1B6yFWEk/Vl8eHnyTNMduy2J5vIDqjDUiLX4K\n6OoQxVpzobxbtKmD0p2uqIR5LS0hgRDOChxTwduEVDqK8+1KcWgz5OtgUivuOwQB\nVcyIM9cq1jJNEvUQtyeOeIo4McGi/gpdzi2zbcAakxqEubu/DIv91eL9VQuakZT1\nwwiNyZCNIJT8guWHr31mV6C5y9wsotMv3OGwMQNXYQKBgQDwmEjWgkUEmbgPgJBJ\nzsWNQWwZ8FYl7WVFheQugjRtwymf6oGpGHEa+eATmMp5HibJgVXH41NcwcVwSloh\nnks1Az7PVvXbodjyS7m7NQFhFXO5r0ehG5RStO/NRYr60uRtmhwfdu1BWON6518P\n5CIHgvppm6WuKQ832wTUE/Kn8wKBgQDgsRjOHAl56NbH/TABLAVS0/XfMfKonB7e\nJxE/NyWumDw0NcUyMO/ZTEOkTNSI3BNhm0BtuCc1W/vqQXIwmzSqqODztvRqPcoL\n5AJWBOtAdn5cLdg54KDO9Kb1MrCrZF4ZSyTGhxWz4inclTxwEarF4kWyZSE68u72\nW1tT3P644QKBgQDivIEYNthYR42gfmZ8SDMAtgDsSQTG5XylElNCSU6jimL15Aih\nlPkylP3JOhrGHdYr3Ik8wU1UgwBQnKFoQUdbBF3zBF7axyIu5ZJ5jLBqD89p1HfK\nqrUTZJUBfGJHkuvXJn8OYAOjq+NldhquXS58qcDYOejfwq4m028vdkUeZQKBgQCi\nasGAcznSWqGuzHC/2B89ASRwov1CLiAN+3V3GZjufPK/1sJlhoRJsdwPTs4u485K\nttu6s+v7oTMW4Rn20qoeVpbM9Mn2ZhW/xKB/p2yaG005upXbOGllT+nDwlF8gr+W\nTwAVVZ41el1CKsoWRF8KTYaN7pY3s1VS1TTOCShDYQKBgQCTuq/9L6AvfTezCiFN\nnU3bHT6kYnnJEduWMtNmq1vwFiJSejUgdgxrhZ5ofAOBfm87GPt/KL/Iqz9AOyeo\ncfkD7a0CjV6v1PrzOEq8/XdGQiJRbE4b3pJxugO90TMKlDRcnwJrUj437DlD5VLq\nOYmMkOM+RxslBx2zlakKRsyvNg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tunts-api-willian@tuntusapi.iam.gserviceaccount.com",
+  "client_id": "105679870799211687744",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tunts-api-willian%40tuntusapi.iam.gserviceaccount.com"
+}

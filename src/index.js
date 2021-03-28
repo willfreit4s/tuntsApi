@@ -1,7 +1,7 @@
 const { google } = require("googleapis");
 
-//const keys = require('./keys.json');
-const keys = require("./credentials.json");
+//const keys = require('../keys.json');
+const keys = require("../credentials.json");
 
 const client = new google.auth.JWT(keys.client_email, null, keys.private_key, [
   "https://www.googleapis.com/auth/spreadsheets",
@@ -27,6 +27,7 @@ const situation = {
   disapproved: "Reprovado por Nota",
 };
 
+// google sheets run
 async function gsrun(cl) {
   // Instance of Google Sheets API
   // keys
@@ -55,10 +56,10 @@ async function gsrun(cl) {
 
     for (let i = 0; i < item.length; i++) {
       /* 
-            Atualmente tenho array da coluna C até H, e cada linha possui 5 posições no array.
-            Logo, o array que estiver preenchido na posição 4, não precisa ser preenchido novamente.
-            Caso não tenha nada, o resultado vai ser indefinido, pronto para ser preenchido no caso.
-        */
+        Atualmente tenho array da coluna C até H, e cada linha possui 5 posições no array.
+        Logo, o array que estiver preenchido na posição 4, não precisa ser preenchido novamente.
+        Caso não tenha nada, o resultado vai ser indefinido, pronto para ser preenchido no caso.
+      */
       verifyLine = item[4];
       console.log("verifyLine", verifyLine);
       if (verifyLine === undefined) {
